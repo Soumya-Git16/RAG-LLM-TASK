@@ -1,0 +1,10 @@
+Link to Dataset:https://huggingface.co/datasets/ShubhamChoksi/IMDB_Movies
+This dataset on Hugging Face is a collection of movie information sourced from IMDb.
+It has 6591 rows.
+Column Descriptions:
+-Name: Contains movie name.
+-rating: Provides the IMDb rating.
+-No_of_ratings: Shows the number of ratings the movie has received.
+-user: Seems to show the number of users, possibly indicating user interactions or reviews.
+-critics: Reflects critic ratings
+-Movie_Info: Contains descriptive information about the movie.
